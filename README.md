@@ -4,4 +4,4 @@ Vidusara welcome to Arduino article sample codes
 1. data.sql.txt include mysql database
 2. data.php include data uploade php code
 3. connection.php include database connecter
-4. display.php include data viwing screen
+4. display.php include data viewing screen
